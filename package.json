@@ -1,0 +1,16 @@
+{
+  "name": "flow-components-example",
+  "version": "1.0.0",
+  "description": "An example Flow implementation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "checkout.com",
+  "license": "ISC",
+  "dependencies": {
+    "@checkout.com/checkout-web-components": "^0.6.0-beta",
+    "express": "^4.21.2",
+    "node-fetch": "^2.7.0"
+  }
+}

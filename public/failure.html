@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Failed</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page-container product-container">
+        <h1>Payment Failed</h1>
+        <p>Unfortunately, your payment could not be processed. Please check your details and try again.</p>
+        <button class="cart-button" onclick="retryPayment()">Retry Payment</button>
+    </div>
+
+    <script>
+        function retryPayment() {
+            // Redirect to the checkout page to retry payment
+            window.location.href = "checkout.html";
+        }
+    </script>
+</body>
+</html>
