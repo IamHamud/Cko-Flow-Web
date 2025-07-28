@@ -1,5 +1,10 @@
 # 🛍️ Simple E-commerce Store with Checkout.com Flow
 
+<img width="1655" height="1033" alt="Screenshot 2025-07-28 at 5 27 36 PM" src="https://github.com/user-attachments/assets/5049a866-d4ad-49f8-8545-62ab7da99b24" />
+
+<img width="1612" height="991" alt="Screenshot 2025-07-28 at 5 27 55 PM" src="https://github.com/user-attachments/assets/dfed20c7-5700-4883-a691-79a352165922" />
+
+
 
 A **lightweight** and **simple** E-commerce store built using **HTML, CSS, JavaScript**, and **Bootstrap** to demonstrate how easy it is to integrate **Checkout.com**'s hosted payment flow.
 
