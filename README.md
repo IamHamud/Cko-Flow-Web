@@ -1,5 +1,7 @@
 # 🛍️ Simple E-commerce Store with Checkout.com Flow
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7331249416286199808?collapsed=1" height="543" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 A **lightweight** and **simple** E-commerce store built using **HTML, CSS, JavaScript**, and **Bootstrap** to demonstrate how easy it is to integrate **Checkout.com**'s hosted payment flow.
 
 🎯 **Purpose**:  
